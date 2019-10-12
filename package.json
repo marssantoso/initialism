@@ -1,0 +1,38 @@
+{
+  "name": "initialism",
+  "version": "1.0.0",
+  "description": "A simple library to get initials out of words.",
+  "keywords": [
+    "initials",
+    "words",
+    "sentence",
+    "name",
+    "string",
+    "initialism",
+    "abbreviation"
+  ],
+  "homepage": "https://github.com/marssantoso/initialism",
+  "bugs": {
+    "url": "https://github.com/marssantoso/initialism/issues",
+    "email": "marssantoso@hotmail.com"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marssantoso/initialism"
+  },
+  "author": "Mars Santoso <marssantoso@hotmail.com> (marssantoso.com)",
+  "license": "MIT",
+  "private": false,
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.5.1",
+    "eslint-plugin-jest": "^22.19.0",
+    "jest": "^24.9.0"
+  }
+}
