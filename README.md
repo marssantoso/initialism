@@ -2,6 +2,11 @@
 
 > A simple library to get initials out of words.
 
+![GitHub](https://img.shields.io/github/license/marssantoso/initialism?style=flat-square&logo=github&logoColor=181717&color=181717&labelColor=666666)
+![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/marssantoso/initialism?sort=semver&style=flat-square&logo=git&color=F05032&labelColor=666666)
+![Codecov branch](https://img.shields.io/codecov/c/gh/marssantoso/initialism/master?style=flat-square&logo=codecov&color=F01F7A&labelColor=666666)
+![npm](https://img.shields.io/npm/dw/initialism?style=flat-square&logo=npm&color=CB3837&labelColor=666666)
+
 ## Installation
 
 Install using [npm](https://npmjs.org/) for node.js:
