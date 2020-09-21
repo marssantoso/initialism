@@ -1,6 +1,6 @@
 {
   "name": "initialism",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "A simple library to get initials out of words.",
   "keywords": [
     "initials",
